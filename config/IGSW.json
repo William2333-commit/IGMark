@@ -1,0 +1,15 @@
+{
+    "algorithm_name": "IGSW",
+    "gamma": 0.5,
+    "delta_ref": 2.0,
+    "delta_min": 1.0,
+    "delta_max": 3.0,
+    "k": 12,
+    "c0": 0.15,
+    "hash_key": 15485863,
+    "z_threshold": 4.0,
+    "prefix_length": 1,
+    "eps": 1e-12,
+    "visualize_mode": "raw_ig",
+    "function": "tanh"
+}

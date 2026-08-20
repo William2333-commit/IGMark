@@ -1,0 +1,13 @@
+{
+    "algorithm_name": "DBW",
+    "gamma": 0.5,
+    "delta_min": 0.5,
+    "delta_max": 3.0,
+    "k": 8,
+    "c0": 0.1,
+    "hash_key": 15485863,
+    "z_threshold": 4.0,
+    "prefix_length": 1,
+    "tau": 1.0,
+    "eps": 1e-12
+}
